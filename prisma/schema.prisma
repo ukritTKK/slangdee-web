@@ -1,0 +1,169 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+enum PublicationStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum OriginStatus {
+  UNKNOWN
+  UNCERTAIN
+  DOCUMENTED
+}
+
+enum ExampleKind {
+  EDITORIAL
+  SOURCED
+}
+
+enum CitationClaim {
+  MEANING
+  PRONUNCIATION
+  ORIGIN
+}
+
+enum SourceKind {
+  DICTIONARY
+  ARTICLE
+  POST
+}
+
+enum ContentLocale {
+  th
+  en
+}
+
+model Slang {
+  id               Int                @id @default(autoincrement())
+  slug             String             @unique
+  headword         String?
+  originalLanguage ContentLocale?
+  romanization     String?
+  status           PublicationStatus  @default(DRAFT)
+  revision         Int                @default(0)
+  reviewedAt       DateTime?
+  reviewedBy       String?
+  createdAt        DateTime           @default(now())
+  updatedAt        DateTime           @updatedAt
+  aliases          SlangAlias[]
+  translations     SlangTranslation[]
+  examples         Example[]
+  slangTags        SlangTag[]
+  sources          SlangSource[]
+  revisions        SlangRevision[]
+
+  @@index([status, createdAt])
+}
+
+model SlangAlias {
+  id      Int    @id @default(autoincrement())
+  slangId Int
+  value   String
+  slang   Slang  @relation(fields: [slangId], references: [id])
+
+  @@index([value])
+}
+
+model SlangTranslation {
+  id           Int           @id @default(autoincrement())
+  slangId      Int
+  locale       ContentLocale
+  word         String
+  ipa          String?
+  meaning      String
+  origin       String?
+  originStatus OriginStatus  @default(UNKNOWN)
+
+  slang   Slang               @relation(fields: [slangId], references: [id])
+  sources TranslationSource[]
+
+  @@unique([slangId, locale])
+}
+
+model Example {
+  id       Int           @id @default(autoincrement())
+  slangId  Int
+  locale   ContentLocale
+  text     String
+  kind     ExampleKind   @default(EDITORIAL)
+  sourceId Int?
+  source   Source?       @relation(fields: [sourceId], references: [id], onDelete: Restrict)
+
+  slang Slang @relation(fields: [slangId], references: [id])
+}
+
+model Source {
+  id           Int                 @id @default(autoincrement())
+  url          String              @unique
+  title        String
+  publisher    String
+  kind         SourceKind
+  publishedAt  DateTime?
+  accessedAt   DateTime
+  entries      SlangSource[]
+  translations TranslationSource[]
+  examples     Example[]
+}
+
+model SlangSource {
+  slangId  Int
+  sourceId Int
+  locator  String?
+  note     String?
+  slang    Slang   @relation(fields: [slangId], references: [id])
+  source   Source  @relation(fields: [sourceId], references: [id])
+
+  @@id([slangId, sourceId])
+}
+
+model TranslationSource {
+  translationId Int
+  sourceId      Int
+  claim         CitationClaim
+  locator       String?
+  note          String?
+  translation   SlangTranslation @relation(fields: [translationId], references: [id])
+  source        Source           @relation(fields: [sourceId], references: [id])
+
+  @@id([translationId, sourceId, claim])
+}
+
+model SlangRevision {
+  id          Int      @id @default(autoincrement())
+  slangId     Int
+  number      Int
+  action      String
+  actor       String
+  note        String
+  snapshot    String
+  contentHash String?
+  createdAt   DateTime @default(now())
+  slang       Slang    @relation(fields: [slangId], references: [id])
+
+  @@unique([slangId, number])
+}
+
+model Tag {
+  id   Int    @id @default(autoincrement())
+  name String
+  slug String @unique
+
+  slangTags SlangTag[]
+}
+
+model SlangTag {
+  slangId Int
+  tagId   Int
+
+  slang Slang @relation(fields: [slangId], references: [id])
+  tag   Tag   @relation(fields: [tagId], references: [id])
+
+  @@id([slangId, tagId])
+}

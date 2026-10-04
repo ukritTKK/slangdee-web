@@ -1,0 +1,2074 @@
+[
+  {
+    "slug": "gik",
+    "headword": "กิ๊ก",
+    "romanization": "gik",
+    "ipa": "/kik̚˦˥/",
+    "meanings": {
+      "th": "คนที่มีความสัมพันธ์เชิงชู้สาวโดยไม่ได้เป็นคู่รักที่เปิดเผย",
+      "en": "A discreet romantic partner outside an acknowledged relationship."
+    },
+    "examples": {
+      "th": {
+        "text": "เขาบอกว่าเป็นแค่เพื่อน แต่เพื่อน ๆ สงสัยว่าเป็นกิ๊กกัน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "They say they are friends, but their friends suspect a secret romance.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "กิ๊ก",
+      "gik"
+    ],
+    "tags": [
+      "relationships"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/กิ๊ก",
+        "title": "กิ๊ก",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "nok",
+    "headword": "นก",
+    "romanization": "nok",
+    "ipa": "/nok̚˦˥/",
+    "meanings": {
+      "th": "พลาดหรือชวดสิ่งที่หวังไว้ โดยเฉพาะเรื่องคนที่ชอบ",
+      "en": "To miss out, often on a hoped-for romantic chance."
+    },
+    "examples": {
+      "th": {
+        "text": "ชวนเขาไปดูหนังแล้วนก เพราะเขามีนัดอยู่แล้ว",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "I asked them to the cinema but struck out; they already had plans.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "นก",
+      "nok",
+      "การนก"
+    ],
+    "tags": [
+      "relationships"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/นก",
+        "title": "นก",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "the",
+    "headword": "เท",
+    "romanization": "the",
+    "ipa": "/tʰeː˧/",
+    "meanings": {
+      "th": "ทิ้งหรือยกเลิกความสัมพันธ์หรือแผนอย่างไม่ใยดี",
+      "en": "To ditch someone or abandon a plan."
+    },
+    "examples": {
+      "th": {
+        "text": "นัดกันไว้แล้วเขากลับเทเราในนาทีสุดท้าย",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "We had plans, but they bailed on me at the last minute.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "เท",
+      "the",
+      "โดนเท"
+    ],
+    "tags": [
+      "relationships"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/เท",
+        "title": "เท",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "phueak",
+    "headword": "เผือก",
+    "romanization": "phueak",
+    "ipa": "/pʰɯa̯k̚˨˩/",
+    "meanings": {
+      "th": "เข้าไปยุ่งหรืออยากรู้เรื่องส่วนตัวของคนอื่น",
+      "en": "To pry into someone else's private affairs."
+    },
+    "examples": {
+      "th": {
+        "text": "อย่าเผือกเรื่องแชตส่วนตัวของเขาเลย",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Don't pry into their private messages.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "เผือก",
+      "phueak",
+      "การเผือก"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/เผือก",
+        "title": "เผือก",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "khing",
+    "headword": "ขิง",
+    "romanization": "khing",
+    "ipa": "/kʰiŋ˩˩˦/",
+    "meanings": {
+      "th": "อวดหรือพูดข่มว่าตัวเองมีดีเหนือคนอื่น",
+      "en": "To boast or one-up others."
+    },
+    "examples": {
+      "th": {
+        "text": "เพิ่งได้โทรศัพท์ใหม่ก็ขิงเพื่อนทั้งวัน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "They got a new phone and spent the day showing it off to friends.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "ขิง",
+      "khing",
+      "ขิงใส่"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/ขิง",
+        "title": "ขิง",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "PRONUNCIATION"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://www.matichon.co.th/lifestyle/news_1113431",
+        "title": "ฮิตต้องแชร์...5 คำยอดฮิตบนโลกออนไลน์",
+        "publisher": "Matichon",
+        "kind": "ARTICLE",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "uai",
+    "headword": "อวย",
+    "romanization": "uai",
+    "ipa": "/ʔua̯j˧/",
+    "meanings": {
+      "th": "ชมเชียร์หรือยกย่องอย่างมาก บางครั้งเกินจริง",
+      "en": "To praise or promote enthusiastically, sometimes beyond what is warranted."
+    },
+    "examples": {
+      "th": {
+        "text": "รีวิวนี้อวยร้านหนักมากจนเราอยากไปลองเอง",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "That review hyped the restaurant so much that I want to try it.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "อวย",
+      "uai",
+      "อวยเกินจริง"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/อวย",
+        "title": "อวย",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "PRONUNCIATION"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://droidsans.com/how-to-detect-fake-reviews-while-shopping-online/",
+        "title": "เตือน... ระวังรีวิวปลอมบนแอปช็อปปิ้งออนไลน์",
+        "publisher": "DroidSans",
+        "kind": "ARTICLE",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "mano",
+    "headword": "มโน",
+    "romanization": "mano",
+    "ipa": "/ma˦˥.noː˧/",
+    "meanings": {
+      "th": "คิดเอาเองหรือแต่งภาพในใจโดยไม่มีหลักฐาน",
+      "en": "To imagine or assume something without evidence."
+    },
+    "examples": {
+      "th": {
+        "text": "เขาแค่กดไลก์รูป อย่าเพิ่งมโนว่าเขาชอบเรา",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "They only liked the photo; don't assume they have a crush on you.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "มโน",
+      "mano",
+      "การมโน"
+    ],
+    "tags": [
+      "emotions"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "มโนเป็นคำที่เกี่ยวกับใจและมีรากจากบาลีหรือสันสกฤต ความหมายสแลงเป็นการใช้คำเดิมในความหมายใหม่",
+      "en": "The word is linked to Pali and Sanskrit terms for mind; its colloquial sense extends the older word."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/มโน",
+        "title": "มโน",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "hua-ron",
+    "headword": "หัวร้อน",
+    "romanization": "hua-ron",
+    "ipa": "/hua̯˩˩˦.rɔːn˦˥/",
+    "meanings": {
+      "th": "โกรธง่ายหรือกำลังโมโหจัด",
+      "en": "Quick to anger, or currently very angry."
+    },
+    "examples": {
+      "th": {
+        "text": "แพ้เกมรอบเดียวก็หัวร้อนแล้ว",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "One lost round was enough to make him furious.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "หัวร้อน",
+      "hua-ron"
+    ],
+    "tags": [
+      "emotions"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมระบุว่าเป็นคำแปลตรงตัวจาก hothead",
+      "en": "Wiktionary records it as a calque of English hothead."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/หัวร้อน",
+        "title": "หัวร้อน",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "pang",
+    "headword": "ปัง",
+    "romanization": "pang",
+    "ipa": "/paŋ˧/",
+    "meanings": {
+      "th": "โดดเด่น น่าประทับใจ หรือได้รับความสนใจมาก",
+      "en": "Strikingly good, or a conspicuous success."
+    },
+    "examples": {
+      "th": {
+        "text": "ชุดนี้ปังมาก ทุกคนหันมามองเลย",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "That outfit is a hit; everyone noticed it.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "ปัง",
+      "pang",
+      "ความปัง"
+    ],
+    "tags": [
+      "compliments"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/ปัง",
+        "title": "ปัง",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "kak",
+    "headword": "กาก",
+    "romanization": "kak",
+    "ipa": "/kaːk̚˨˩/",
+    "meanings": {
+      "th": "ห่วยหรือคุณภาพต่ำ เป็นคำดูถูกแบบกันเอง",
+      "en": "Poor quality or inept; a dismissive informal insult."
+    },
+    "examples": {
+      "th": {
+        "text": "เน็ตกากจนดูวิดีโอไม่จบ",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The connection is so poor that the video will not finish.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "กาก",
+      "kak",
+      "ความกาก"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/กาก",
+        "title": "กาก",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://sac.or.th/portal/th/article/detail/742",
+        "title": "กาก",
+        "publisher": "Princess Maha Chakri Sirindhorn Anthropology Centre",
+        "kind": "ARTICLE",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "saep",
+    "headword": "แซ่บ",
+    "romanization": "saep",
+    "ipa": "/sɛp̚˥˩/",
+    "meanings": {
+      "th": "รสจัดอร่อย หรือในภาษาพูดหมายถึงลุคที่เผ็ดร้อนสะดุดตา",
+      "en": "Spicy and delicious; figuratively, bold or sexy in appearance."
+    },
+    "examples": {
+      "th": {
+        "text": "ลุคใหม่ของเธอแซ่บจนเพื่อนทักทั้งวัน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Her bold new look drew comments from friends all day.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "แซ่บ",
+      "แซบ",
+      "saep"
+    ],
+    "tags": [
+      "compliments"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "คำไทยมาตรฐานยืมจากคำอีสานที่ใช้ชมรสอาหาร",
+      "en": "Standard Thai borrowed the word from Isan, where it describes tasty food."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/แซ่บ",
+        "title": "แซ่บ",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "ORIGIN"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://www.thairath.co.th/lifestyle/fashion/1532605",
+        "title": "เซ็กซี่ทุกชุด แฟชั่นสุดแซ่บ สไตล์ เมย์ สิรินทร์",
+        "publisher": "Thairath",
+        "kind": "ARTICLE",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "krian",
+    "headword": "เกรียน",
+    "romanization": "krian",
+    "ipa": "/kria̯n˧/",
+    "meanings": {
+      "th": "คนที่ก่อกวน ยั่ว หรือแสดงความก้าวร้าวแบบไม่คิด",
+      "en": "A person who provokes or disrupts others, especially online."
+    },
+    "examples": {
+      "th": {
+        "text": "อย่าไปตอบคอมเมนต์เกรียนให้เสียเวลา",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Don't waste time replying to that troll's comments.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "เกรียน",
+      "krian"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/เกรียน",
+        "title": "เกรียน",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "thep",
+    "headword": "เทพ",
+    "romanization": "thep",
+    "ipa": "/tʰeːp̚˥˩/",
+    "meanings": {
+      "th": "คนที่เก่งหรือมีฝีมือเหนือคนทั่วไป",
+      "en": "Someone exceptionally skilled at something."
+    },
+    "examples": {
+      "th": {
+        "text": "เธอแก้ปัญหานี้ได้ในห้านาที เทพจริง",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "She solved it in five minutes; her skill is remarkable.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "เทพ",
+      "thep",
+      "เทพมาก"
+    ],
+    "tags": [
+      "compliments"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "คำเดิมหมายถึงเทวดา และถูกใช้เปรียบถึงคนที่มีความสามารถเหนือธรรมดา",
+      "en": "The word literally means deity and is also used for a person with exceptional ability."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/เทพ",
+        "title": "เทพ",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "ORIGIN"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://pws.npru.ac.th/wasamone/data/files/ลักษณะของภาษาไทยเน็ต%20ปี%202555.pdf",
+        "title": "ลักษณะของภาษาไทยเน็ต ปี 2555",
+        "publisher": "Nakhon Pathom Rajabhat University",
+        "kind": "ARTICLE",
+        "targets": [
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "555",
+    "headword": "555",
+    "romanization": "ha-ha-ha",
+    "ipa": "/haː˥˩.haː˥˩.haː˥˩/",
+    "meanings": {
+      "th": "ข้อความแทนเสียงหัวเราะในแชต เพราะเลขห้าอ่านว่า ห้า",
+      "en": "Written laughter in Thai chat, since the digit five sounds like ha."
+    },
+    "examples": {
+      "th": {
+        "text": "ส่งรูปตอนเด็กมาได้ไง 555",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "How did you find that childhood photo? Haha!",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "555",
+      "๕๕๕",
+      "ถถถ",
+      "ha-ha-ha"
+    ],
+    "tags": [
+      "chat"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "ใช้เสียงอ่านเลข 5 ว่า ห้า แทนเสียงหัวเราะ",
+      "en": "The Thai pronunciation of 5 resembles a laugh syllable."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/555",
+        "title": "555",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "jin",
+    "headword": "จิ้น",
+    "romanization": "jin",
+    "ipa": "/t͡ɕin˥˩/",
+    "meanings": {
+      "th": "จินตนาการหรือเชียร์ให้คนสองคนเป็นคู่รักกัน",
+      "en": "To imagine or support two people as a romantic pair."
+    },
+    "examples": {
+      "th": {
+        "text": "แฟนซีรีส์จิ้นตัวละครสองคนนี้มาก",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Fans of the series keep shipping those two characters.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "จิ้น",
+      "jin",
+      "การจิ้น"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมระบุว่าความหมายจินตนาการมาจาก imagine ภาษาอังกฤษ",
+      "en": "Wiktionary links the imagining sense to English imagine."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/จิ้น",
+        "title": "จิ้น",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "ORIGIN"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://www.arsomsiam.com/234-2/",
+        "title": "สแลงและสำนวนเกี่ยวกับการพูดคุยสัพเพเหระ",
+        "publisher": "Arsom Siam",
+        "kind": "ARTICLE",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "ting",
+    "headword": "ติ่ง",
+    "romanization": "ting",
+    "ipa": "/tiŋ˨˩/",
+    "meanings": {
+      "th": "แฟนคลับที่ติดตามศิลปินอย่างจริงจัง บางบริบทใช้แซวหรือดูหมิ่น",
+      "en": "A devoted fan of an artist; the term can sound teasing or derogatory."
+    },
+    "examples": {
+      "th": {
+        "text": "เธอเป็นติ่งวงนี้และตามดูทุกคอนเสิร์ต",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "She is a devoted fan of this group and follows every concert.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "ติ่ง",
+      "ting"
+    ],
+    "tags": [
+      "internet-culture"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมโยงการเรียกแฟนคลับกับทรงผมนักเรียนหญิงยาวถึงติ่งหู",
+      "en": "Wiktionary links the fan sense to a schoolgirl haircut ending at the earlobe."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/ติ่ง",
+        "title": "ติ่ง",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "fin",
+    "headword": "ฟิน",
+    "romanization": "fin",
+    "ipa": "/fin˧/",
+    "meanings": {
+      "th": "รู้สึกสุขใจหรือพอใจมาก",
+      "en": "Feeling deeply pleased or delighted."
+    },
+    "examples": {
+      "th": {
+        "text": "ตอนจบซีรีส์ทำเอาคนดูฟินกันทั้งห้อง",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The series finale left everyone in the room delighted.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "ฟิน",
+      "fin",
+      "ความฟิน"
+    ],
+    "tags": [
+      "emotions"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมภาษาอังกฤษระบุว่าความหมายเชิงสุขใจย่อจาก finale",
+      "en": "English Wiktionary traces the positive adjective sense to finale."
+    },
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ฟิน",
+        "title": "ฟิน",
+        "publisher": "English Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "ja",
+    "headword": "จ้า",
+    "romanization": "ja",
+    "ipa": "/t͡ɕaː˥˩/",
+    "meanings": {
+      "th": "คำตอบรับหรือคำลงท้ายแบบกันเองที่ให้เสียงเป็นมิตร",
+      "en": "A friendly, informal affirmative or sentence-ending particle."
+    },
+    "examples": {
+      "th": {
+        "text": "ได้จ้า เดี๋ยวส่งรูปให้คืนนี้",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Sure, I'll send the photos tonight.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "จ้า",
+      "ja"
+    ],
+    "tags": [
+      "chat"
+    ],
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/จ้า",
+        "title": "จ้า",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION"
+        ],
+        "note": null
+      },
+      {
+        "url": "https://thailearn.app/guides/thai-slang-and-informal-speech",
+        "title": "Thai Slang & Informal Speech",
+        "publisher": "ThaiLearn",
+        "kind": "ARTICLE",
+        "targets": [
+          "USAGE"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "jeng",
+    "headword": "เจ๋ง",
+    "romanization": "jeng",
+    "ipa": "/t͡ɕeŋ˩˩˦/",
+    "meanings": {
+      "th": "ดีหรือเก่งอย่างน่าชม",
+      "en": "Excellent, clever, or impressive."
+    },
+    "examples": {
+      "th": {
+        "text": "ไอเดียแกเจ๋งมาก ลองทำจริงกันเถอะ",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Your idea is excellent; let's try it.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "เจ๋ง",
+      "jeng",
+      "เจ๋งเป้ง"
+    ],
+    "tags": [
+      "compliments"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมระบุว่ายืมจากคำกวางตุ้ง 正",
+      "en": "Wiktionary records a borrowing from Cantonese 正."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/เจ๋ง",
+        "title": "เจ๋ง",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "in",
+    "headword": "อิน",
+    "romanization": "in",
+    "ipa": "/ʔin˧/",
+    "meanings": {
+      "th": "รู้สึกร่วมกับเรื่องหรือบทบาทจนเข้าถึงอารมณ์",
+      "en": "To feel emotionally absorbed in a story or role."
+    },
+    "examples": {
+      "th": {
+        "text": "ดูหนังแล้วอินจนร้องไห้ตามตัวละคร",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "I was so drawn into the film that I cried with the character.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "aliases": [
+      "อิน",
+      "in",
+      "ความอิน"
+    ],
+    "tags": [
+      "emotions"
+    ],
+    "origin": {
+      "status": "DOCUMENTED",
+      "th": "วิกิพจนานุกรมระบุว่ายืมจาก in ภาษาอังกฤษ",
+      "en": "Wiktionary records a borrowing from English in."
+    },
+    "sources": [
+      {
+        "url": "https://th.wiktionary.org/wiki/อิน",
+        "title": "อิน",
+        "publisher": "Thai Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE",
+          "ORIGIN"
+        ],
+        "note": null
+      }
+    ],
+    "originalLanguage": "th"
+  },
+  {
+    "slug": "rage-bait",
+    "headword": "rage bait",
+    "originalLanguage": "en",
+    "ipa": "/ˈreɪdʒ ˌbeɪt/",
+    "romanization": null,
+    "aliases": [
+      "rage-bait",
+      "ragebait"
+    ],
+    "tags": [
+      "internet-culture",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "เนื้อหาออนไลน์ที่ตั้งใจยั่วให้คนโกรธเพื่อให้เข้ามาตอบโต้หรือมีส่วนร่วม",
+      "en": "Online content made to provoke anger and draw replies or engagement."
+    },
+    "examples": {
+      "th": {
+        "text": "โพสต์นั้นดูเป็น rage bait มากกว่าเป็นคำถามจริงจัง",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "I skipped the rage bait instead of arguing in the comments.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/rage-bait",
+        "title": "Rage bait",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Noun entry gives anger-provoking online content, /ˈreɪdʒ ˌbeɪt/, and examples of article and video use."
+      }
+    ]
+  },
+  {
+    "slug": "parasocial",
+    "headword": "parasocial",
+    "originalLanguage": "en",
+    "ipa": "/ˌper.əˈsoʊ.ʃəl/",
+    "romanization": null,
+    "aliases": [],
+    "tags": [
+      "relationships",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "เกี่ยวกับความผูกพันที่คนคนหนึ่งรู้สึกต่อคนดัง ตัวละคร หรือ AI ที่ตนไม่ได้รู้จักเป็นการส่วนตัว",
+      "en": "Relating to a felt connection with a celebrity, fictional character, or AI that one does not personally know."
+    },
+    "examples": {
+      "th": {
+        "text": "เขารู้สึกผูกพันกับสตรีมเมอร์จนเกิดความสัมพันธ์แบบ parasocial",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The fan described her attachment to the streamer as parasocial.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/parasocial",
+        "title": "Parasocial",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Adjective entry includes one-sided felt connections to celebrities, characters, and AI, with US IPA and relationship examples."
+      }
+    ]
+  },
+  {
+    "slug": "rizz",
+    "headword": "rizz",
+    "originalLanguage": "en",
+    "ipa": "/rɪz/",
+    "romanization": null,
+    "aliases": [],
+    "tags": [
+      "relationships",
+      "compliments"
+    ],
+    "meanings": {
+      "th": "เสน่ห์หรือความสามารถในการดึงดูดให้คนอื่นชอบ โดยเฉพาะในเชิงจีบ",
+      "en": "Charm or an ability to attract someone, often romantically."
+    },
+    "examples": {
+      "th": {
+        "text": "เขาชวนคุยได้เป็นธรรมชาติจนเพื่อนแซวว่ามี rizz",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Her easy conversation gave her plenty of rizz at the party.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/rizz",
+        "title": "Rizz",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Slang noun and verb entries describe romantic appeal and give /rɪz/ with conversational examples."
+      }
+    ]
+  },
+  {
+    "slug": "stan",
+    "headword": "stan",
+    "originalLanguage": "en",
+    "ipa": "/stæn/",
+    "romanization": null,
+    "aliases": [
+      "stanning"
+    ],
+    "tags": [
+      "fandom",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "แฟนคลับที่ติดตามและชื่นชมคนดังอย่างมาก หรือการเป็นแฟนคลับเช่นนั้น",
+      "en": "An especially devoted fan of a celebrity, or to admire one intensely."
+    },
+    "examples": {
+      "th": {
+        "text": "เธอเป็น stan ของวงนี้และติดตามทุกผลงาน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "He has stanned the singer since her first album.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/stan",
+        "title": "Stan",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Informal noun and verb senses cover extreme celebrity admiration; page gives /stæn/ and fan-culture examples."
+      }
+    ]
+  },
+  {
+    "slug": "simp",
+    "headword": "simp",
+    "originalLanguage": "en",
+    "ipa": "/sɪmp/",
+    "romanization": null,
+    "aliases": [
+      "simping"
+    ],
+    "tags": [
+      "relationships",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "คนที่พยายามเอาใจคนที่ชอบมากเกินไป โดยมักใช้ในเชิงล้อหรือไม่เห็นด้วย",
+      "en": "A person seen as trying too hard to please someone they like, often used disapprovingly."
+    },
+    "examples": {
+      "th": {
+        "text": "เพื่อนล้อว่าเขาเป็น simp เพราะยอมเปลี่ยนแผนทุกครั้งที่อีกฝ่ายชวน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The chat called him a simp for agreeing to every request.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/simp",
+        "title": "Simp",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Disapproving relationship sense, /sɪmp/, and examples are on the noun and verb entry; it also has other senses."
+      }
+    ]
+  },
+  {
+    "slug": "doomscrolling",
+    "headword": "doomscrolling",
+    "originalLanguage": "en",
+    "ipa": "/ˈduːm.skroʊ.lɪŋ/",
+    "romanization": null,
+    "aliases": [
+      "doom-scrolling"
+    ],
+    "tags": [
+      "internet-culture",
+      "emotions"
+    ],
+    "meanings": {
+      "th": "การเลื่อนอ่านข่าวหรือเรื่องลบ ๆ บนโทรศัพท์หรือคอมพิวเตอร์ต่อเนื่องนานเกินไป",
+      "en": "Spending a long time scrolling through bad or negative news online."
+    },
+    "examples": {
+      "th": {
+        "text": "เมื่อคืนเขา doomscrolling จนดึกแล้วตื่นมาเหนื่อย",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "I caught myself doomscrolling after reading one alarming headline.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/doomscrolling",
+        "title": "Doomscrolling",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Noun entry describes extended reading of negative news on devices, with US IPA and time-spent examples."
+      }
+    ]
+  },
+  {
+    "slug": "brain-rot",
+    "headword": "brain rot",
+    "originalLanguage": "en",
+    "ipa": "/ˈbreɪn ˌrɒt/",
+    "romanization": null,
+    "aliases": [
+      "brainrot",
+      "brain-rot"
+    ],
+    "tags": [
+      "internet-culture",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "อาการที่พูดกันว่าคิดได้ไม่คมเพราะเสพสื่อออนไลน์ไร้สาระมากเกินไป หรือเรียกสื่อไร้สาระแบบนั้น",
+      "en": "A supposed loss of clear thinking from too much low-quality online content, or the content itself."
+    },
+    "examples": {
+      "th": {
+        "text": "คลิปสั้นชุดนี้ดูเพลินแต่เขาเรียกมันว่า brain rot",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "After an hour of repetitive clips, she joked about getting brain rot.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/brain-rot",
+        "title": "Brain rot",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Entry gives both informal senses, low-quality content and its supposed mental effect, plus UK IPA and examples; this is not a clinical diagnosis."
+      }
+    ]
+  },
+  {
+    "slug": "sus",
+    "headword": "sus",
+    "originalLanguage": "en",
+    "ipa": "/sʌs/",
+    "romanization": null,
+    "aliases": [
+      "suss"
+    ],
+    "tags": [
+      "chat",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "น่าสงสัย หรือชวนให้ระแวง",
+      "en": "Suspicious or giving someone reason to be suspicious."
+    },
+    "examples": {
+      "th": {
+        "text": "ลิงก์ที่ส่งมาแบบไม่มีคำอธิบายดู sus อยู่นะ",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "That unexplained link looks sus to me.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/sus",
+        "title": "sus",
+        "publisher": "Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "English slang adjective section gives suspicious senses, /sʌs/, and dated usage quotations."
+      }
+    ]
+  },
+  {
+    "slug": "cringe",
+    "headword": "cringe",
+    "originalLanguage": "en",
+    "ipa": "/krɪndʒ/",
+    "romanization": null,
+    "aliases": [],
+    "tags": [
+      "emotions",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "น่าอายหรือน่ากระอักกระอ่วนเพราะดูฝืน แย่ หรือเปิ่น",
+      "en": "Embarrassing in an awkward or silly way."
+    },
+    "examples": {
+      "th": {
+        "text": "มุกในคลิปนั้นฝืนจนคนดูพิมพ์ว่า cringe",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The forced joke made the whole scene feel cringe.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/cringe",
+        "title": "Cringe",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Informal adjective sense means very embarrassing because bad or silly; page gives /krɪndʒ/ and social-media examples."
+      }
+    ]
+  },
+  {
+    "slug": "flex",
+    "headword": "flex",
+    "originalLanguage": "en",
+    "ipa": "/fleks/",
+    "romanization": null,
+    "aliases": [
+      "flexing"
+    ],
+    "tags": [
+      "internet-culture",
+      "compliments"
+    ],
+    "meanings": {
+      "th": "อวดสิ่งที่ทำได้หรือสิ่งที่มี โดยบางครั้งทำให้คนอื่นรำคาญ",
+      "en": "To show off something one owns or has achieved, sometimes to others' annoyance."
+    },
+    "examples": {
+      "th": {
+        "text": "เขาแค่เล่าเรื่องงานใหม่ ไม่ได้ตั้งใจ flex",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Posting every expensive purchase can look like a flex.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/flex",
+        "title": "Flex",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Slang verb and noun senses cover showing pride in possessions or achievements, with /fleks/ and examples."
+      }
+    ]
+  },
+  {
+    "slug": "low-key",
+    "headword": "low-key",
+    "originalLanguage": "en",
+    "ipa": "/ˌloʊˈkiː/",
+    "romanization": null,
+    "aliases": [
+      "lowkey",
+      "low key"
+    ],
+    "tags": [
+      "chat",
+      "emotions"
+    ],
+    "meanings": {
+      "th": "คำขยายที่ใช้บอกความเห็นหรือความรู้สึกแบบไม่เน้นย้ำมากนัก",
+      "en": "Used to express an opinion or feeling without putting strong emphasis on it."
+    },
+    "examples": {
+      "th": {
+        "text": "ฉัน low-key อยากไปงานนั้นเหมือนกัน",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "I'm low-key excited about the quiet weekend.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/low-key",
+        "title": "Low-key",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Slang adverb sense says an opinion is stated without much emphasis; US /ˌloʊˈkiː/ and examples appear separately from adjective senses."
+      }
+    ]
+  },
+  {
+    "slug": "salty",
+    "headword": "salty",
+    "originalLanguage": "en",
+    "ipa": "/ˈsɑːl.t̬i/",
+    "romanization": null,
+    "aliases": [],
+    "tags": [
+      "emotions",
+      "chat"
+    ],
+    "meanings": {
+      "th": "หงุดหงิดหรือน้อยใจ โดยเฉพาะเมื่อดูเหมือนโกรธเกินเหตุ",
+      "en": "Annoyed or upset, especially in a way that seems unreasonable."
+    },
+    "examples": {
+      "th": {
+        "text": "เขายัง salty อยู่เพราะแพ้เกมรอบสุดท้าย",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "She got salty when her team lost the final round.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/salty",
+        "title": "Salty",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Informal angry or upset sense is separate from taste; page gives US IPA and interpersonal examples."
+      }
+    ]
+  },
+  {
+    "slug": "troll",
+    "headword": "troll",
+    "originalLanguage": "en",
+    "ipa": "/troʊl/",
+    "romanization": null,
+    "aliases": [
+      "trolling"
+    ],
+    "tags": [
+      "internet-culture",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "คนที่โพสต์ข้อความกวนหรือยั่วยุออนไลน์เพื่อให้คนอื่นหัวเสีย หรือการทำเช่นนั้น",
+      "en": "A person who posts deliberately upsetting messages online, or the act of doing so."
+    },
+    "examples": {
+      "th": {
+        "text": "แอดมินลบคอมเมนต์ของ troll ที่เข้ามายั่วสมาชิก",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "A troll kept posting insults to provoke replies.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/troll",
+        "title": "Troll",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Computing noun and informal verb senses cover messages meant to upset or attract attention, with US /troʊl/ and examples."
+      }
+    ]
+  },
+  {
+    "slug": "clickbait",
+    "headword": "clickbait",
+    "originalLanguage": "en",
+    "ipa": "/ˈklɪk.beɪt/",
+    "romanization": null,
+    "aliases": [
+      "click bait"
+    ],
+    "tags": [
+      "internet-culture",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "หัวข้อ ภาพ หรือเรื่องออนไลน์ที่ทำมาเพื่อเรียกความสนใจให้คนกดลิงก์",
+      "en": "An online headline, image, or story designed to attract clicks."
+    },
+    "examples": {
+      "th": {
+        "text": "พาดหัวชวนตกใจนั้นเป็น clickbait แต่เนื้อหาจริงไม่มีอะไรใหม่",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The headline was clickbait, so I checked the article before sharing it.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/clickbait",
+        "title": "Clickbait",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Informal noun entry describes click-seeking online titles, images, and stories, with IPA and headline examples."
+      }
+    ]
+  },
+  {
+    "slug": "catfish",
+    "headword": "catfish",
+    "originalLanguage": "en",
+    "ipa": "/ˈkæt.fɪʃ/",
+    "romanization": null,
+    "aliases": [
+      "catfishing"
+    ],
+    "tags": [
+      "relationships",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "คนที่ปลอมตัวตนบนโซเชียลเพื่อหลอกหรือดึงดูดคนอื่น หรือการทำเช่นนั้น",
+      "en": "Someone who uses a false identity on social media to deceive or attract others, or the act of doing so."
+    },
+    "examples": {
+      "th": {
+        "text": "โปรไฟล์นั้นใช้รูปคนอื่น เขาเลยสงสัยว่าเป็น catfish",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "The account used stolen photos to catfish people.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/catfish",
+        "title": "Catfish",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Informal fake-identity noun and verb senses appear apart from the fish sense; IPA and social-media examples are present."
+      }
+    ]
+  },
+  {
+    "slug": "goat",
+    "headword": "GOAT",
+    "originalLanguage": "en",
+    "ipa": "/ɡoʊt/",
+    "romanization": null,
+    "aliases": [
+      "G.O.A.T.",
+      "goat"
+    ],
+    "tags": [
+      "compliments",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "คนที่ได้รับการยกย่องว่าเก่งที่สุดตลอดกาลในสาขาของตน",
+      "en": "A person regarded as the greatest of all time in a field, especially sport."
+    },
+    "examples": {
+      "th": {
+        "text": "แฟนกีฬาหลายคนยกให้เธอเป็น GOAT ของยุคนี้",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Fans debated whether the champion was the GOAT.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/goat",
+        "title": "GOAT",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Uppercase GOAT entry expands Greatest Of All Time, gives US /ɡoʊt/, and illustrates elite athletes; lowercase animal sense differs."
+      }
+    ]
+  },
+  {
+    "slug": "fomo",
+    "headword": "FOMO",
+    "originalLanguage": "en",
+    "ipa": "/ˈfoʊ.moʊ/",
+    "romanization": null,
+    "aliases": [
+      "fomo",
+      "fear of missing out"
+    ],
+    "tags": [
+      "emotions",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "ความกังวลว่าจะพลาดกิจกรรมหรือประสบการณ์ที่คนอื่นได้เข้าร่วม โดยเฉพาะหลังเห็นในโซเชียล",
+      "en": "Anxiety about missing experiences that others enjoy, often stirred by social media."
+    },
+    "examples": {
+      "th": {
+        "text": "เห็นรูปคอนเสิร์ตเต็มฟีดแล้วเขาเริ่มมี FOMO",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "Photos from the festival gave me FOMO.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/fomo",
+        "title": "FOMO",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Entry expands fear of missing out, ties it to social-media exposure, and gives US IPA plus an event example."
+      }
+    ]
+  },
+  {
+    "slug": "no-cap",
+    "headword": "no cap",
+    "originalLanguage": "en",
+    "ipa": "/noʊ kæp/",
+    "romanization": null,
+    "aliases": [
+      "no-cap",
+      "no 🧢"
+    ],
+    "tags": [
+      "chat",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "คำย้ำว่าที่พูดเป็นเรื่องจริง ไม่ได้พูดเกินจริงหรือโกหก",
+      "en": "A phrase used to stress that what one says is true."
+    },
+    "examples": {
+      "th": {
+        "text": "ร้านนี้อร่อยมาก no cap",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "That was the best dessert I've had this year, no cap.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/no-cap",
+        "title": "No cap",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "USAGE"
+        ],
+        "note": "Slang idiom entry says it emphasizes truth and gives informal sentence examples."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/no_cap",
+        "title": "no cap",
+        "publisher": "Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "English interjection section gives US /noʊ kæp/ and usage quotations."
+      }
+    ]
+  },
+  {
+    "slug": "ghosting",
+    "headword": "ghosting",
+    "originalLanguage": "en",
+    "ipa": "/ˈɡoʊ.stɪŋ/",
+    "romanization": null,
+    "aliases": [
+      "ghost",
+      "ghosted"
+    ],
+    "tags": [
+      "relationships",
+      "social-media"
+    ],
+    "meanings": {
+      "th": "การจบความสัมพันธ์ด้วยการหยุดติดต่ออีกฝ่ายอย่างกะทันหันโดยไม่อธิบาย",
+      "en": "Ending a relationship by suddenly stopping all communication with someone."
+    },
+    "examples": {
+      "th": {
+        "text": "คุยกันทุกวันแล้วอีกฝ่ายหายไปเลย เธอเรียกแบบนี้ว่า ghosting",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "After several dates, the sudden silence felt like ghosting.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/english/ghosting",
+        "title": "Ghosting",
+        "publisher": "Cambridge Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING",
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "Stopping-communication sense is separate from writing and image senses; entry gives US IPA and relationship examples."
+      }
+    ]
+  },
+  {
+    "slug": "vibe-coding",
+    "headword": "vibe coding",
+    "originalLanguage": "en",
+    "ipa": "/ˈvaɪb ˈkoʊ.dɪŋ/",
+    "romanization": null,
+    "aliases": [
+      "vibecoding",
+      "vibe-coding"
+    ],
+    "tags": [
+      "tech",
+      "internet-culture"
+    ],
+    "meanings": {
+      "th": "การพัฒนาซอฟต์แวร์ด้วยการบอก AI เป็นภาษาธรรมชาติให้สร้างและแก้โค้ดตามที่ต้องการ",
+      "en": "Building software by repeatedly describing desired code to a generative AI in natural language."
+    },
+    "examples": {
+      "th": {
+        "text": "เธอทำต้นแบบแอปด้วย vibe coding โดยอธิบายหน้าจอที่ต้องการให้ AI",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      },
+      "en": {
+        "text": "They used vibe coding to draft a prototype from plain-language prompts.",
+        "kind": "EDITORIAL",
+        "sourceUrl": null
+      }
+    },
+    "origin": {
+      "status": "UNKNOWN",
+      "th": null,
+      "en": null
+    },
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/vibe-coding",
+        "title": "Vibe coding",
+        "publisher": "Collins English Dictionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "MEANING"
+        ],
+        "note": "British and American senses explicitly require natural-language prompts to generative AI for code."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/vibe_coding",
+        "title": "vibe coding",
+        "publisher": "Wiktionary",
+        "kind": "DICTIONARY",
+        "targets": [
+          "PRONUNCIATION",
+          "USAGE"
+        ],
+        "note": "English noun section gives General American IPA and dated usage quotations, including the term's early use."
+      }
+    ]
+  }
+]
